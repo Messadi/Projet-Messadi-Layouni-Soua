@@ -1,0 +1,18 @@
+Vos Objets équipés : 
+  - épée longue (1D +1)
+ - vétements de cuir ( +1)
+Votre Sac : 
+ - potion d'explosion ( +1)
+ - potion de Soin ( +1)
+Vos caractéristique : 
+ -Force : 2D
+ -Adresse : 1D +1
+ -Endurance : 2D +2
+ +Intiative :  +1
+ +Attaque : 1D +1
+ +Esquive :  +1
+ +Defense :  +1
+ +Degats : 1D +1
+
+Votre niveau de blessures est  Légerement blessé 
+Vos points d'action :0
